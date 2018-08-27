@@ -5,6 +5,11 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Hello World!\n");
+  int number = 0;
+  if(function_x(&number))
+  {
+    printf("Random number: %d\n", number);
+  }
+  
   return 0;
 }

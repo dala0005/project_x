@@ -2,6 +2,6 @@
 #define FUNCTIONS_H
 
 #include <stdio.h>
-
+#include "structs.h"
 
 #endif

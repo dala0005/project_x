@@ -3,4 +3,6 @@
 
 #include <stdio.h>
 
+int function_x(int *rand_number);
+
 #endif

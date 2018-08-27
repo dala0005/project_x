@@ -1,0 +1,7 @@
+# Conpile source #
+##################
+*.o
+project_x
+compile_run.sh
+*.swp
+../include/.functions.h.swp
